@@ -1,0 +1,51 @@
+
+/*
+Theme Name: Salie Theme
+Description: Child theme of boutique
+Template: boutique
+*/
+@import url("https://fonts.googleapis.com/css?family=Belgrano|Walter+Turncoat");
+/*
+#masthead, #colophon {
+    font-family: 'Walter Turncoat', cursive;
+
+    .navigation-top {
+        background-color: #c96bff;
+        .main-navigation ul {
+            background: #c96bff;
+        }
+        @media screen and (min-width: 48em) {
+            font-size: 0.91rem;      
+        }
+        .main-navigation a:hover {
+            color: rgba(255, 240, 111, 0.75);
+        }
+    }
+}
+
+#content {
+    font-family: 'Belgrano', serif;
+    font-size: 146%;
+    .page-header {
+        background-color: rgb(16, 42, 82);
+    }
+}
+
+
+#page {
+    font-family: 'EB Garamond', serif;
+}
+
+
+.alkua-side-title{
+    background: rgb(128, 128, 128);
+
+}
+
+.alkua-side-content{
+
+    background: rgb(228, 226, 226);
+}
+*/
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJzdHlsZS5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiXG4vKlxuVGhlbWUgTmFtZTogU2FsaWUgVGhlbWVcbkRlc2NyaXB0aW9uOiBDaGlsZCB0aGVtZSBvZiBib3V0aXF1ZVxuVGVtcGxhdGU6IGJvdXRpcXVlXG4qL1xuQGltcG9ydCB1cmwoXCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9QmVsZ3Jhbm98V2FsdGVyK1R1cm5jb2F0XCIpO1xuLypcbiNtYXN0aGVhZCwgI2NvbG9waG9uIHtcbiAgICBmb250LWZhbWlseTogJ1dhbHRlciBUdXJuY29hdCcsIGN1cnNpdmU7XG5cbiAgICAubmF2aWdhdGlvbi10b3Age1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjYzk2YmZmO1xuICAgICAgICAubWFpbi1uYXZpZ2F0aW9uIHVsIHtcbiAgICAgICAgICAgIGJhY2tncm91bmQ6ICNjOTZiZmY7XG4gICAgICAgIH1cbiAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogNDhlbSkge1xuICAgICAgICAgICAgZm9udC1zaXplOiAwLjkxcmVtOyAgICAgIFxuICAgICAgICB9XG4gICAgICAgIC5tYWluLW5hdmlnYXRpb24gYTpob3ZlciB7XG4gICAgICAgICAgICBjb2xvcjogcmdiYSgyNTUsIDI0MCwgMTExLCAwLjc1KTtcbiAgICAgICAgfVxuICAgIH1cbn1cblxuI2NvbnRlbnQge1xuICAgIGZvbnQtZmFtaWx5OiAnQmVsZ3Jhbm8nLCBzZXJpZjtcbiAgICBmb250LXNpemU6IDE0NiU7XG4gICAgLnBhZ2UtaGVhZGVyIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiKDE2LCA0MiwgODIpO1xuICAgIH1cbn1cblxuXG4jcGFnZSB7XG4gICAgZm9udC1mYW1pbHk6ICdFQiBHYXJhbW9uZCcsIHNlcmlmO1xufVxuXG5cbi5hbGt1YS1zaWRlLXRpdGxle1xuICAgIGJhY2tncm91bmQ6IHJnYigxMjgsIDEyOCwgMTI4KTtcblxufVxuXG4uYWxrdWEtc2lkZS1jb250ZW50e1xuXG4gICAgYmFja2dyb3VuZDogcmdiKDIyOCwgMjI2LCAyMjYpO1xufVxuKi9cbiJdLCJmaWxlIjoic3R5bGUuY3NzIn0= */
